@@ -1,7 +1,3 @@
-# Ultra-Minimal Hangman (pure OpenAI, guaranteed ASCII gallows)
-# Run: streamlit run streamlit_app.py
-# Requires: pip install openai streamlit
-# Needs: OPENAI_API_KEY in env or .streamlit/secrets.toml
 
 import os
 import re
